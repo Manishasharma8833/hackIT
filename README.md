@@ -1,4 +1,5 @@
-![](https://dagshub.com/blog/content/images/2023/09/hf10_banner_1032x600.png)
+
+\![](https://dagshub.com/blog/content/images/2023/09/hf10_banner_1032x600.png)
 
 ## FORK, FIX, PR — that's all it takes
 
@@ -13,6 +14,7 @@
 | Contributors                                           | Interests                |
 | ------------------------------------------------------ | ------------------------ |
 | IT Club 2023 |TECH|
+| Manisha sharma
 
 ### You can go through every content of this repository to figure out issues for which you can create Pull Requests
 
